@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "689252454309",
+    "firebase_url": "https://examapp-21cca-default-rtdb.firebaseio.com",
+    "project_id": "examapp-21cca",
+    "storage_bucket": "examapp-21cca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689252454309:android:fbf6a0943d47f89460e24c",
+        "android_client_info": {
+          "package_name": "com.example.exam_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBdwqFpP5sxpND98aXJxcjeNE5CC19iWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689252454309:android:ff0bcc3a0823a6dc60e24c",
+        "android_client_info": {
+          "package_name": "com.exams.exam_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBdwqFpP5sxpND98aXJxcjeNE5CC19iWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
